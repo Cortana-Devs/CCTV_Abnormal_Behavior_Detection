@@ -1,5 +1,15 @@
 # Abnormal Behavior Detection Using LSTM
 
+## **Team Members**
+- Nipuna Janaranjana
+- Kavindu Sanjula
+- Avishka Shehan
+- Chamath Thiwanka
+- Pubudu Shehan
+- Lasantha Dinidu
+- Dulitha Pathum
+- Sandalu Thushan 
+
 ## Project Overview
 This project focuses on detecting abnormal human behavior using a Long Short-Term Memory (LSTM) approach. It utilizes **MediaPipe for keypoint detection** and applies LSTM models to classify actions as **normal or abnormal** based on motion patterns.
 
@@ -50,6 +60,44 @@ This project focuses on detecting abnormal human behavior using a Long Short-Ter
 - Expand dataset with more diverse actions.
 - Experiment with **Transformer-based** architectures for better accuracy.
 - Improve real-time inference for deployment in **CCTV-based surveillance systems**.
+
+# **Overall Process & Team Assignments**  
+
+## **Step 1: Data Collection & Preprocessing**  
+👥 **Team Members:**     
+- Avishka Shehan  
+- Chamath Thiwanka  
+- Pubudu Shehan    
+- Dulitha Pathum  
+
+## **Step 2: Model Training & Optimization**  
+👥 **Team Members:**  
+- Nipuna Janaranjana   
+- Sandalu Thushan  
+- Pubudu Shehan  
+- Chamath Thiwanka  
+- Lasantha Dinidu    
+
+## **Step 3: Testing & Performance Evaluation**  
+👥 **Team Members:**  
+- Kavindu Sanjula  
+- Avishka Shehan  
+- Sandalu Thushan  
+- Chamath Thiwanka  
+
+## **Step 4: Evaluation & Real-Time Processing**  
+👥 **Team Members:**  
+- Nipuna Janaranjana  
+- Kavindu Sanjula   
+- Dulitha Pathum  
+
+## **Step 5: Documentation & Report Writing**  
+👥 **Team Members:**  
+- Lasantha Dinidu  
+- Sandalu Thushan  
+- Nipuna Janaranjana  
+- Kavindu Sanjula  
+
 
 ---
 
